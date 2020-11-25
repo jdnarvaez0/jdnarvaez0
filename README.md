@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Juan D. Narvaez](https://www.linkedin.com/in/juan-david-narv%C3%A1ez-s-9ba764108/)
-> Estudiante de Lic en Informatica at [Facultad Informatica UNLP](https://www.info.unlp.edu.ar/)
+> Estudiante de Lic en Informatica en [Facultad Informatica UNLP](https://www.info.unlp.edu.ar/)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
