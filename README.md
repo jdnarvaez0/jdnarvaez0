@@ -34,7 +34,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-david-narv%C3%A1ez-s-9ba764108/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JuanDavid-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/naviDev0" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/navidev0?style=social"></a>
+<a href="https://twitter.com/naviDev0" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/naviDev0-blue?style=flat&logo=twitter"></a>
 <a href="mailto:juand.ns07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juand.ns07@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
