@@ -30,11 +30,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&count_private=true)](https://github.com/navide0)
 
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navidev0&repo=PackageTemplate&show_owner=true)](https://github.com/navidev0/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navidev0&repo=Foods-Ecommerce&show_owner=true)](https://github.com/navidev0/Foods-Ecommerce)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
