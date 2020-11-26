@@ -32,8 +32,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navidev0&repo=PackageTemplate&show_owner=true)](https://github.com/navidev0/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navidev0&repo=Foods-Ecommerce&show_owner=true)](https://github.com/navidev0/Foods-Ecommerce)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -44,5 +44,3 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
