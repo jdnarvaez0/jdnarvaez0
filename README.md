@@ -21,14 +21,14 @@
  
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30">](https://git-scm.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" alt="GitHub" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30">](https://git-scm.com/) | [<img src="https://www.flaticon.es/svg/vstatic/svg/733/733609.svg?token=exp=1618868296~hmac=45f6c8b8ad2b04771a3438c365488c43" alt="GitHub" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |
 |---|---|---|---|---|
 
 ### Github Stats
 
 [![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&count_private=true)](https://github.com/navide0)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-david-narv%C3%A1ez-s-9ba764108/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JuanDavid-blue?style=flat&logo=linkedin"></a>
