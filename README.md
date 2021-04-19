@@ -11,14 +11,12 @@
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+ Soy un desarrollador 
 </p>
 </div>
 
 ### Programming Languages 🌐
-| [<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="html5" width="24">](https://developer.mozilla.org/es/docs/HTML/HTML5) | [<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="30">](https://sass-lang.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) 
+| [<img src="https://www.flaticon.es/svg/vstatic/svg/226/226269.svg?token=exp=1618868214~hmac=4fcddbce31cfce3ec2ec7f485935cbdc" alt="html5" width="24">](https://developer.mozilla.org/es/docs/HTML/HTML5) | [<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="30">](https://sass-lang.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) 
 |---|---|---|---|---|
  
 ### Tools 🛠️
