@@ -11,7 +11,7 @@
 
 <div>
  <p>
- Soy un desarrollador 
+ []
 </p>
 </div>
 
