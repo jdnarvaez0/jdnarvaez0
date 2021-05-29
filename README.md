@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="150px" src="https://github.com/preactjs/wmr/blob/main/docs/public/assets/wmr.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Perfil</h2>
 </p>
 
