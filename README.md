@@ -27,7 +27,10 @@
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&count_private=true)](https://github.com/navide0)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidev0&layout=compact&theme=cobalt)](https://github.com/navidev0/github-readme-stats)
 
 <h3>Connect with Me </h3>
 
@@ -36,3 +39,6 @@
 <a href="https://twitter.com/naviDev0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-@naviDev0-blue?style=flat&logo=Twitter"></a>
 <a href="mailto:juand.ns07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juand.ns07@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+
+
