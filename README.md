@@ -25,19 +25,6 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" alt="Git" width="30">](https://git-scm.com/) | [<img src="https://camo.githubusercontent.com/7ab2adddc7dfa3e52e508932c967d1c0876992226a1aed29e169b6eeb9b10e7c/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d676c797068732f32782f6769746875622d322e706e67" alt="GitHub" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |
 |---|---|---|---|---|
 
-<h2 align="left">Recent Blog Post:</h2>
-<p align="left">
-:point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
-</p>
-<br>
-
-### Github Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidev0&layout=compact&theme=cobalt)](https://github.com/navidev0/github-readme-stats)
-
 <h3>Connect with Me </h3>
 
 <p align="center">
