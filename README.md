@@ -5,7 +5,7 @@
 </p>
 
 ### Hey! 👋 Soy [Juan David](https://www.linkedin.com/in/juan-david-narv%C3%A1ez-s-9ba764108/)
->Desesarollador web
+>Full Stack Web Developer
 
 
 <img src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
