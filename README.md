@@ -1,14 +1,19 @@
 
 <p align="center">
  <img width="150px" src="https://github.com/preactjs/wmr/blob/main/docs/public/assets/wmr.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Perfil</h2>
 </p>
 
-### Hey! 👋 Soy [Juan David](https://www.linkedin.com/in/juan-david-narv%C3%A1ez-s-9ba764108/)
->Full Stack Web Developer
+<h1 align="center">Hi 👋, I'm Juan</h1>
+<h3 align="center">A passionate full stack web developer from Argentina</h3>
 
 
 <img src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
+
+- 👨‍💻 All of my projects are available at [https://my-porfolio-mu-tan.vercel.app/works](https://my-porfolio-mu-tan.vercel.app/works)
+
+- 📝 I regularly write articles on [https://my-porfolio-mu-tan.vercel.app/posts](https://my-porfolio-mu-tan.vercel.app/posts)
+
+- 📫 How to reach me **https://my-porfolio-mu-tan.vercel.app/**
 
 <div>
  <p>
@@ -16,8 +21,8 @@
 </p>
 </div>
 
-### My Stack 🌐
-| [<img src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" alt="html5" width="24">](https://developer.mozilla.org/es/docs/HTML/HTML5) | [<img src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" alt="css" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="30">](https://sass-lang.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://camo.githubusercontent.com/2c69dc89e7484cf00c5375512ba804c3b7ca8284dab85a8782af3f2bfbeb52c1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind" width="24">](https://tailwindcss.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://es.wikipedia.org/wiki/JavaScript) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="24">](https://es.reactjs.org/) | [<img src="https://camo.githubusercontent.com/42d79599b684d4449d0fab6ee8df849c39fa0148993c7680b85210494dda4599/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d332f3630302f52656163742e6a735f6c6f676f2d3531322e706e67" alt="ReactJs" width="24">](https://es.reactjs.org/) 
+### <h3 align="left">Languages:</h3>
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40">](https://developer.mozilla.org/es/docs/Web/JavaScript) |  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next" width="40" height="40">](https://nextjs.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">](https://react.dev/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40">](https://nodejs.org/es) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40">]([https://nodejs.org/es](https://expressjs.com/es/)) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">](https://www.postgresql.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">](https://www.mongodb.com/es)
 |---|---|---|---|---|---|---|---|
  
 ### Tools 🛠️
