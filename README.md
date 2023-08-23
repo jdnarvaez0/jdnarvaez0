@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="160px" src="https://github.com/preactjs/wmr/blob/main/docs/public/assets/wmr.svg" align="center" alt="Github Readme Stats" />
+</p>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 
 <h1 align="center">
@@ -5,9 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Juan+NARVAEZ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<!-- <p align="center">
- <img width="150px" src="https://github.com/preactjs/wmr/blob/main/docs/public/assets/wmr.svg" align="center" alt="Github Readme Stats" />
-</p> -->
 
 <h3 align="center">A passionate full stack web developer from Argentina</h3>
 <br/>
