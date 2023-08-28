@@ -8,9 +8,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Juan+NARVAEZ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 
 <h3 align="center">A passionate full stack web developer from Argentina</h3>
+<br/>
+<img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 <br/>
 
 👨‍💻 All of my projects are available at [Projects](https://my-porfolio-mu-tan.vercel.app/works)
