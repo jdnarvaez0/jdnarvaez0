@@ -14,11 +14,10 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 <br/>
 
-👨‍💻 All of my projects are available at [Projects](https://my-porfolio-mu-tan.vercel.app/works)
-
-📝 I regularly write articles on [Blog](https://my-porfolio-mu-tan.vercel.app/posts)
-
-📫 How to reach me **juand.dev0@gmail.com**
+- 👨‍💻 All of my projects are available at [Projects](https://my-porfolio-mu-tan.vercel.app/works)
+- 📝 I regularly write articles on [Blog](https://my-porfolio-mu-tan.vercel.app/posts)
+- ⚡ I like to play guitar, read, play soccer and lift weights.  :)
+- 📫 How to reach me **juand.dev0@gmail.com**
 
 <br/>
 <br/>
