@@ -18,7 +18,7 @@
 
 📝 I regularly write articles on [Blog](https://my-porfolio-mu-tan.vercel.app/posts)
 
-📫 How to reach me **https://my-porfolio-mu-tan.vercel.app/**
+📫 How to reach me **juand.dev0@gmail.com**
 
 <br/>
 <br/>
