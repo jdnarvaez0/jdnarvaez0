@@ -39,7 +39,3 @@
 <a href="https://twitter.com/naviDev0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-@naviDev0-blue?style=flat&logo=Twitter"></a>
 <a href="mailto:juand.ns07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juand.ns07@gmail.com-blue?style=flat&logo=gmail"></a>
 </h5>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidev0&show_icons=true&locale=en&layout=compact" alt="navidev0" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidev0&show_icons=true&locale=en" alt="navidev0" /></p>
