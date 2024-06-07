@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<h3 align="center">A versatile full stack developer from Argentina with a passion for teamwork and collaboration.</h3>
+<h3 align="center">A versatile software developer from Argentina with a passion for teamwork and collaboration.</h3>
 <br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 <br/>
