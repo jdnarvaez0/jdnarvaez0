@@ -8,13 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Juan+NARVAEZ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<h3 align="center">A versatile software developer from Argentina with a passion for teamwork and collaboration.</h3>
 <br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
 <br/>
 
-Full Stack Developer with two years of experience in web application development and a passion for learning new technologies. Currently, I work at Ataway and am in my second year of a Bachelor's degree in Computer Science at UNLP (Argentina)
+Software Developer with two years of experience in web application development and a passion for learning new technologies. Currently, I work at Ataway and am in my second year of a Bachelor's degree in Computer Science at UNLP (Argentina)
 
 * 🌍  I'm based in Buenos Aires / Argentina
 * 🖥️  See my portfolio at [jdnarvaez.org](http://jdnarvaez.org)
@@ -37,7 +35,5 @@ Full Stack Developer with two years of experience in web application development
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jdnarvaez0"><img src="https://github-readme-stats.vercel.app/api?username=jdnarvaez0&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="jdnarvaez0's GitHub stats" /></a>
 
 <a href="https://github.com/jdnarvaez0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdnarvaez0&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
