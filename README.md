@@ -1,8 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Narváez
-====================================================================================================================================
+<p align="center">
+ <img width="160px" src="https://github.com/preactjs/wmr/blob/main/docs/public/assets/wmr.svg" align="center" alt="Github Readme Stats" />
+</p>
 
-Web Developer
--------------
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Juan+NARVAEZ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h3 align="center">A versatile full stack developer from Argentina with a passion for teamwork and collaboration.</h3>
+<br/>
+<img align="left" src="https://komarev.com/ghpvc/?username=navidev0" alt="navidev0" />
+<br/>
 
 Full Stack Developer with two years of experience in web application development and a passion for learning new technologies. Currently, I work at Ataway and am in my second year of a Bachelor's degree in Computer Science at UNLP (Argentina)
 
